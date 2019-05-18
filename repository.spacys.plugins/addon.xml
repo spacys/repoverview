@@ -2,7 +2,7 @@
 <addon id="repository.spacys.plugins" name="Spacy's Repository" version="0.0.1" provider-name="spacy">
 	<extension point="xbmc.addon.repository" name="Spacy's Repository">
 		<info compressed="false">https://raw.githubusercontent.com/spacys/mediathek/plugin.audio.amazonmedia/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/spacys/mediathek/plugin.audio.amazonmedia/addons.xml.md5</checksum>
+		<checksum>https://raw.githubusercontent.com/spacys/mediathek/plugin.audio.amazonmedia/version</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/spacys/mediathek/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">

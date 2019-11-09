@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="repository.spacys.plugins" name="Spacy's Repository" provider-name="spacy" version="0.0.2">
+	<extension name="Spacy's Repository" point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/spacys/mediathek/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/spacys/mediathek/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/spacys/mediathek/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Spacy's Repository</summary>
+		<description>Kodi Amazon Music Add-on</description>
+		<disclaimer>Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon></addons>
